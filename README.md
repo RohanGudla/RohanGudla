@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm RohanGudla</h1>
-<h3 align="center">A passionate Deep Learning Developer.</h3>
+<h3 align="center">A Passionate Deep Learning Developer.</h3>
 
 - 🔭 I’m currently working on **Deep Learning models**
 
